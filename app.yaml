@@ -1,0 +1,7 @@
+runtime: python37
+
+env_variables:
+  CKey : "CKey"
+  CSecret : "CSecret"
+  AToken : "AToken"
+  ASecret : "ASecret"

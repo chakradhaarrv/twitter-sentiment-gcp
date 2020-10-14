@@ -1,0 +1,7 @@
+Flask
+gunicorn
+matplotlib
+numpy
+textblob
+tweepy
+google-cloud-secret-manager==2.0.0
